@@ -37,4 +37,4 @@ pipeline:
                     connectorRef: dockerdeepak
                     repo: dockerdeepak/golangsample
                     tags:
-                      - v1
+                      - v2
